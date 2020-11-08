@@ -8,7 +8,7 @@
     "server": "nodemon src/index.js",
     "client": "npm start --prefix client",
     "start": "node src/index.js",
-    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "author": "Lokesh Kadiyala",
   "license": "ISC",
