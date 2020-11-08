@@ -1,0 +1,11 @@
+.about-text {
+    background-color: #f6f7fe;
+    font-size: 18px;
+    word-spacing: 3px;
+}
+
+@media screen and (min-width: 768px) {
+    .about-text {
+        font-size: 22px;
+    }
+}
